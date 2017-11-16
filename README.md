@@ -28,3 +28,6 @@ To execute it, just execute the command bellow from project base directory:
 java -jar target\search.jar "string"
 
 PS: directory "data" with files should be on same directory as search.jar file
+
+****************
+One test is failing. It validates if the search is done i less than 0.01 ms. 
